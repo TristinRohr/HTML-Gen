@@ -1,0 +1,16 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ## Description fjkdsa;fjdsa ## Table of Contents - [Installation](#installation) - [Usage](#usage) - [Contribution](#contribution) - [Test](#test) - [License](#license) - [Questions](#questions) ## Installation jkfa;jdas ## Usage jklfd;asjf; ## Contribution jfkl;dsa ## Test jkflds;a ## License https://opensource.org/licenses/MIT ## Questions - GitHub: [jfkdsa;]( - Email: jfkda;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
